@@ -1,2 +1,2 @@
-# golang-rest-starter
-🐋 Ready-to-go RESTful API "starter" build in Go.
+# hum-discord-rest
+🐋 RESTful API for Hum build in Go. 
